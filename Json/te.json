@@ -1,0 +1,49 @@
+{
+    "size": [
+        1200,
+        600
+    ],
+    "z-order": [
+        "elemento-1",
+        "elemento-2"
+    ],
+    "texts": {
+        "elemento-1": {
+            "position": {
+                "x": 67,
+                "y": 590
+            },
+            "size": {
+                "value": 50,
+                "type": "height"
+            },
+            "font": "DejaVuSerif",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "opacity": 1.0,
+            "words": 5
+        },
+        "elemento-2": {
+            "position": {
+                "x": 67,
+                "y": 0
+            },
+            "size": {
+                "value": 50,
+                "type": "height"
+            },
+            "font": "DejaVuSerif",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "opacity": 1.0,
+            "words": 5
+        }
+    },
+    "images": {}
+}

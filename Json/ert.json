@@ -1,0 +1,69 @@
+{
+    "size": [
+        1200,
+        600
+    ],
+    "z-order": [
+        "elemento-2",
+        "elemento-1",
+        "elemento-3"
+    ],
+    "texts": {
+        "elemento-1": {
+            "position": {
+                "x": 200,
+                "y": 50
+            },
+            "size": {
+                "value": 100,
+                "type": "height"
+            },
+            "font": "arial.ttf",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "opacity": 1.0,
+            "words": 5
+        },
+        "elemento-3": {
+            "position": {
+                "x": 350,
+                "y": 500
+            },
+            "size": {
+                "value": 50,
+                "type": "height"
+            },
+            "font": "arial.ttf",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "opacity": 1.0,
+            "words": 5
+        }
+    },
+    "images": {
+        "elemento-2": {
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "value": 600,
+                "type": "height"
+            },
+            "font": "arial.ttf",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "opacity": 1.0,
+            "words": 5
+        }
+    }
+}
